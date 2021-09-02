@@ -1,0 +1,2 @@
+docker tag kube-demo:0.0.1-SNAPSHOT rstefanca81/rst-sandbox:kube-demo
+docker push rstefanca81/rst-sandbox:kube-demo
